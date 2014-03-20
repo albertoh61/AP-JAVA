@@ -1,5 +1,3 @@
-Steve Z. helped me out a lot for the solve function at the end.
-
 The constructor makes a 2d array of ints with dimension size*size.
 
 The toString method allows us to print out the solved board at the end.
